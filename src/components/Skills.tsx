@@ -8,7 +8,7 @@ import tailwindcssImg from "./img/tailwindcss.svg";
 const Skill = () => {
   return (
     <section
-      className="pt-[50px] text-center h-[700px] text-[#404040]"
+      className="pt-[50px] text-center h-screen text-[#404040]"
       id="skills"
     >
       <h2 className="text-[#0aa8f1] text-5xl">

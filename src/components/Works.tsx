@@ -3,7 +3,7 @@ import siteImg from "./img/site.png";
 const Work = () => {
   return (
     <section className="mt-[300px]" id="works">
-      <div className="container mx-auto h-[800px] text-center">
+      <div className="container mx-auto h-screen text-center">
         <h2 className="text-5xl text-[#eef095]">
           Works
           <span className="text-[#404040] tracking-[2px] text-2xl pl-[5px]">
