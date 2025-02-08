@@ -21,6 +21,10 @@ const Profile = (props: props) => {
           <span className="text-[#eef095]">age</span> : 36,
         </p>
         <p className="ml-[30px] py-3">
+          <span className="text-[#eef095]">birth</span> :
+          "神奈川県川崎市生まれ愛知県名古屋市育ち",
+        </p>
+        <p className="ml-[30px] py-3">
           <span className="text-[#eef095]">academicHistory</span> :
           "青山学院大学経済学部経済学科中退"
         </p>
