@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=M+PLUS+1p&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap");
+@import "tailwindcss";
+
+body {
+  font-family: "Raleway", "M PLUS 1p", serif;
+  background-color: #201f1f;
+}
+
+#sidebar {
+  height: calc(100vh - 40px);
+}
+
+#tabs {
+  width: calc(100vw - 60px);
+}
+#main-visual {
+  height: calc(100vh - 40px);
+}
