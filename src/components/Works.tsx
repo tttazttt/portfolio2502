@@ -1,4 +1,5 @@
 import siteImg from "./img/site.png";
+import acatoftoday from "./img/a-cat-of-today.png";
 
 const Work = () => {
   return (
@@ -20,9 +21,9 @@ const Work = () => {
             </a>
           </li>
           <li className="w-[33%] p-[20px]">
-            <a href="#">
+            <a href="https://a-cat-of-today.vercel.app/">
               <img
-                src={siteImg}
+                src={acatoftoday}
                 className="hover:transform hover:duration-500 hover:-translate-y-5"
               ></img>
             </a>
