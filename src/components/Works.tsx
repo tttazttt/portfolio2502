@@ -1,5 +1,6 @@
 import siteImg from "./img/site.png";
 import acatoftoday from "./img/a-cat-of-today.png";
+import pastelColorPicker from "./img/pastel-color-picker.png";
 
 const Work = () => {
   return (
@@ -29,9 +30,9 @@ const Work = () => {
             </a>
           </li>
           <li className="w-[33%] p-[20px]">
-            <a href="#">
+            <a href="https://pastel-color-picker.vercel.app/">
               <img
-                src={siteImg}
+                src={pastelColorPicker}
                 className="hover:transform hover:duration-500 hover:-translate-y-5"
               ></img>
             </a>
