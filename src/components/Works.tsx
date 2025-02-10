@@ -2,6 +2,7 @@ import siteImg from "./img/site.png";
 import acatoftoday from "./img/a-cat-of-today.png";
 import pastelColorPicker from "./img/pastel-color-picker.png";
 import primitivePachinko from "./img/primitive-pachinko.png";
+import quizApp from "./img/quiz-app.png";
 
 const Work = () => {
   return (
@@ -47,9 +48,9 @@ const Work = () => {
             </a>
           </li>
           <li className="w-[33%] p-[20px]">
-            <a href="#">
+            <a href="https://quiz-app-sand-ten.vercel.app/">
               <img
-                src={siteImg}
+                src={quizApp}
                 className="hover:transform hover:duration-500 hover:-translate-y-5"
               ></img>
             </a>
